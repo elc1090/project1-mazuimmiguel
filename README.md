@@ -1,7 +1,5 @@
 # Non existing game
 
-![Screenshot do projeto](https://mdswanson.com/static/chops-ux-step-4.png "Screenshot do projeto").
-
 Acesso: https://elc1090.github.io/project1-mazuimmiguel/
 
 
