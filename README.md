@@ -17,6 +17,7 @@ Foi realizado uma landing page para Non existing game
 - Javascript
 - Bootstrap
 - Owl Carousel
+- Stable Diffusion
 
 #### Ambiente de desenvolvimento
 - Atom
@@ -26,15 +27,14 @@ Foi realizado uma landing page para Non existing game
 #### Créditos
 
 - Template base utilizado: https://www.tooplate.com/view/2120-ben-resume
-- Github pages para 
 
 #### Bastidores
 
 Primeiro tentei utilizar o Gastby e Netlify, mas notei que seria demais para este projeto.
 
-Depois comecei com github pages e vi que seria o melhor para este projeto mais simples.
+Depois tentei o github page e vi que seria o melhor para este projeto mais simples.
 
-Para agilizar o trabalho procurei por um template e achei este https://www.tooplate.com/view/2120-ben-resume , e depois adaptei para o que queria.
+Para agilizar o trabalho procurei por um template e achei este https://www.tooplate.com/view/2120-ben-resume e depois utilizando o Stable Diffusion Gui gerei as imagens bases para o projeto e adaptei o template.
 
 
 ---
